@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A server app built using [Shelf](https://pub.dev/packages/shelf),
 configured to enable running with [Docker](https://www.docker.com/).
 
@@ -47,3 +48,7 @@ You should see the logging printed in the first terminal:
 2021-05-06T15:47:04.620417  0:00:00.000158 GET     [200] /
 2021-05-06T15:47:08.392928  0:00:00.001216 GET     [200] /echo/I_love_Dart
 ```
+=======
+# livros-shelf
+Projeto "Livros" usando dart shelf
+>>>>>>> fb3729e6c749c8ef8a7f159bf5e2de5768214fc5
